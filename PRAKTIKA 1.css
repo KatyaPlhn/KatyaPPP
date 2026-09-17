@@ -144,7 +144,7 @@ font-family: "Arial", sans-serif;
  -moz-background-size: cover;
  -webkit-background-size: cover;
  background-repeat: no-repeat;
- background-position: top center;
+ background-position: center center;
 }
 #flat .parallax-one {
  padding-top: 200px;
@@ -158,7 +158,7 @@ font-family: "Arial", sans-serif;
  -moz-background-size: cover;
  -webkit-background-size: cover;
  background-repeat: no-repeat;
- background-position: top center;
+ background-position: center center;
 }
 #flat .line-break-1 {
  background: linear-gradient(60deg,blue,purple,pink);
